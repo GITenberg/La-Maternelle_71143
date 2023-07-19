@@ -1,0 +1,49 @@
+_repo: La-Maternelle_71143
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Steinlen, Théophile Alexandre
+    aliases:
+    - Steinlen, Theophile Alexandre
+    - Steinlen, Alexandre Théophile
+    - Petit-Pierre
+    - Steinlen, Th. A. (Théophile Alexandre)
+    - Steinlen, A. Th. (Alexandre Théophile)
+    birthdate: 1859
+    deathdate: 1923
+    gutenberg_agent_id: '49375'
+    url: http://www.gutenberg.org/2009/agents/49375
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Th%C3%A9ophile_Alexandre_Steinlen
+    - https://en.wikipedia.org/wiki/Th%C3%A9ophile_Steinlen
+creator:
+  author:
+    agent_name: Frapié, Léon
+    alias: Frapie, Leon
+    birthdate: 1863
+    deathdate: 1949
+    gutenberg_agent_id: '53055'
+    url: http://www.gutenberg.org/2009/agents/53055
+    wikipedia:
+    - https://en.wikipedia.org/wiki/L%C3%A9on_Frapi%C3%A9
+    - https://fr.wikipedia.org/wiki/L%C3%A9on_Frapi%C3%A9
+description: ''
+gutenberg_issued: '2023-07-08'
+identifiers:
+  gutenberg: '71143'
+language: fr
+pgterms:marc904: https://archive.org/details/lamaternelleroma00frapuoft/page/n11/mode/2up
+pgterms:marc905: 20211030060627frapier
+pgterms:marc906: '1908'
+pgterms:marc907: FR
+production_note: Claudine Corbasson and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/Canadian Libraries)
+publication_note: '  $aFrance :$bLibrairie universelle, $c1908.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: La Maternelle
+url: http://www.gutenberg.org/ebooks/71143
