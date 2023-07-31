@@ -16,6 +16,9 @@ contributor:
     wikipedia:
     - https://fr.wikipedia.org/wiki/Th%C3%A9ophile_Alexandre_Steinlen
     - https://en.wikipedia.org/wiki/Th%C3%A9ophile_Steinlen
+covers:
+- cover_type: archival
+  image_path: 71143-h/images/cover.jpg
 creator:
   author:
     agent_name: Frapié, Léon
@@ -28,6 +31,8 @@ creator:
     - https://en.wikipedia.org/wiki/L%C3%A9on_Frapi%C3%A9
     - https://fr.wikipedia.org/wiki/L%C3%A9on_Frapi%C3%A9
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71143#La-Maternelle
 gutenberg_issued: '2023-07-08'
 identifiers:
   gutenberg: '71143'
